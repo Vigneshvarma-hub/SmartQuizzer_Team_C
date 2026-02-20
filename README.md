@@ -1,1 +1,0 @@
-# SmartQuizzer_Team_C
